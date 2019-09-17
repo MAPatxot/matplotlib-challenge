@@ -2,6 +2,7 @@
 Homework 5 - Matplotlib Homework - The Power of Plots
 
 References:
+
 Activity Notes
 
  https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/errorbar_limits_simple.html#sphx-glr-gallery-lines-bars-and-markers-errorbar-limits-simple-py
