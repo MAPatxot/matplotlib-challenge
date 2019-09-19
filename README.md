@@ -20,3 +20,14 @@ https://robertmitchellv.com/blog-bar-chart-annotations-pandas-mpl.html (Bar Grap
 
 https://www.investopedia.com/terms/p/percentage-change.asp
 
+
+
+Reason for 2nd Commit: New Bar Graph + %
+
+Re-Read the instructions for the homework, and realized that there were notes provided 
+On how to get the percentages to display. Had a hard time initially finding hoq to do this. 
+
+I added the percentages to display and it showed that the percentages shown were incorrect
+Compared to the bar graph that is provided
+
+Reason is because my variables for my individual bar graph plots such as "capo_bar", I was referencing the wrong indexes. For "infu_bar" I had [1] instead of [2], [1] represented Ceftamin. 
