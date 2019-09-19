@@ -25,7 +25,7 @@ https://www.investopedia.com/terms/p/percentage-change.asp
 Reason for 2nd Commit: New Bar Graph + %
 
 Re-Read the instructions for the homework, and realized that there were notes provided 
-On how to get the percentages to display. Had a hard time initially finding hoq to do this. 
+On how to get the percentages to display. Had a hard time initially finding how to do this. 
 
 I added the percentages to display and it showed that the percentages shown were incorrect
 Compared to the bar graph that is provided
