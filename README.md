@@ -5,7 +5,7 @@ Homework 5 - Matplotlib Homework - The Power of Plots
 
 References:
 
-Metastasis is a pathogenic agent's spread from an initial or primary site to a different or secondary site within the host's body; the term is typically used when referring to metastasis by a cancerous tumor.
+Metastasis definition - is a pathogenic agent's spread from an initial or primary site to a different or secondary site within the host's body; the term is typically used when referring to metastasis by a cancerous tumor.
 
 Activity Notes
 
